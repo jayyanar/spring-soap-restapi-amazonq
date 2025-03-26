@@ -1,0 +1,5 @@
+com/example/demo/endpoint/StockPriceEndpoint.class
+com/example/demo/DemoApplication.class
+com/example/demo/model/StockPriceResponse.class
+com/example/demo/model/StockPriceRequest.class
+com/example/demo/config/WebServiceConfig.class
