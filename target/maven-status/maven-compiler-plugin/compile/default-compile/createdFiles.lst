@@ -1,5 +1,4 @@
-com/example/demo/endpoint/StockPriceEndpoint.class
+com/example/demo/service/StockPriceService.class
 com/example/demo/DemoApplication.class
 com/example/demo/model/StockPriceResponse.class
-com/example/demo/model/StockPriceRequest.class
-com/example/demo/config/WebServiceConfig.class
+com/example/demo/controller/StockPriceController.class
