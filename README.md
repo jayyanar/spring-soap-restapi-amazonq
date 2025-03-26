@@ -1,5 +1,7 @@
 # Spring Boot Stock Price API - A RESTful service for retrieving real-time stock prices
 
+# Thanks to Amazon Q Developer Agents !Ref @prompt.md for Step by Step Seqence of Prompt used for Refactoring SOAP to REST API
+
 This Spring Boot application provides a simple and efficient REST API for retrieving stock prices. It offers a clean interface for querying current stock prices by company name, with built-in error handling and response formatting.
 
 The service is built using Spring Boot 2.5.14 and Java 8, providing a robust foundation for handling HTTP requests and responses. It features a layered architecture with clear separation of concerns between controllers, services, and data models. The API includes comprehensive error handling for both client-side validation errors and unexpected server-side issues.
