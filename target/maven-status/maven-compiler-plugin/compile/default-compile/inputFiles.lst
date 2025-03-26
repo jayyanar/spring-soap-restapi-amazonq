@@ -1,5 +1,4 @@
-/home/veera/Downloads/demo/src/main/java/com/example/demo/DemoApplication.java
-/home/veera/Downloads/demo/src/main/java/com/example/demo/model/StockPriceResponse.java
-/home/veera/Downloads/demo/src/main/java/com/example/demo/config/WebServiceConfig.java
-/home/veera/Downloads/demo/src/main/java/com/example/demo/endpoint/StockPriceEndpoint.java
-/home/veera/Downloads/demo/src/main/java/com/example/demo/model/StockPriceRequest.java
+/Users/jayyanar/Downloads/spring-soap/src/main/java/com/example/demo/controller/StockPriceController.java
+/Users/jayyanar/Downloads/spring-soap/src/main/java/com/example/demo/DemoApplication.java
+/Users/jayyanar/Downloads/spring-soap/src/main/java/com/example/demo/model/StockPriceResponse.java
+/Users/jayyanar/Downloads/spring-soap/src/main/java/com/example/demo/service/StockPriceService.java
